@@ -1,0 +1,35 @@
+.heroImg {
+  width: 50rem;
+}
+.heroSub {
+  margin-top: 5rem;
+}
+.heroText {
+  font-size: 50px;
+  color: #212353;
+}
+
+.btn {
+  background: darkblue;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  color: white;
+  padding: 5px;
+}
+.svgIcon {
+  position: absolute;
+  top: 20rem;
+  left: 1rem;
+}
+h1 span {
+  background: lightgrey
+}
+.heroBtnLearn{
+  background: #9C69E2;
+  border-radius: 50px;
+  color: white;
+  outline: none;
+  border: none;
+  padding: 8px 15px;
+}
