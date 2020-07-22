@@ -1,0 +1,35 @@
+.rect {
+  background: #f063b82d;
+  border-radius: 30px;
+  padding: 2rem;
+}
+.box {
+  display: flex;
+  justify-content: center;
+}
+.dataText {
+  vertical-align: middle;
+}
+.dataImg {
+  width: 23rem;
+  margin: 0;
+}
+section {
+  margin-top: 5rem;
+}
+.semSvg {
+  position: absolute;
+  top: 1rem;
+  right: 8rem;
+}
+.svgText {
+  position: absolute;
+  top: -55px;
+  right: 0;
+  padding: 10rem;
+}
+.iconImg {
+  position: absolute;
+  left: -5.5rem;
+  top: 10rem;
+}
